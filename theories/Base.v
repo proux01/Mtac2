@@ -1,3 +1,4 @@
+Require Unicoq.
 Declare ML Module "coq-mtac2.plugin".
 
 (* Declare ML Module must work without the Requires to be compatible
